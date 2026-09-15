@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm G bala ashwith reddy</h1>
+<h1 align="center">Hi 👋, I'm G ashwith reddy</h1>
 <h3 align="center">I'am an extraodinary student in india</h3>
 
 - 🔭 I’m currently working on **python learning**
